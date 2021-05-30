@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="670.44" height="289" viewBox="0 0 670.44 289">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.498" y1="1.33" x2="0.511" y2="-1.093" gradientUnits="objectBoundingBox">
+      <stop offset="0.15" stop-color="#9b2244" stop-opacity="0"/>
+      <stop offset="1" stop-color="#9b2244"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4194" data-name="Group 4194" transform="translate(-377.602 -336.264)">
+    <text id="_2.44b" data-name="$2.44b" transform="translate(390.042 361.264)" fill="#444241" font-size="24" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="-0.013em"><tspan x="0" y="0">$2.44b</tspan></text>
+    <text id="_3.35_" data-name="+3.35%" transform="translate(498.042 361.264)" fill="#08830e" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="-0.013em"><tspan x="0" y="0">+3.35%</tspan></text>
+    <g id="Group_1166" data-name="Group 1166" transform="translate(-2020)">
+      <text id="_4b" data-name="$4b" transform="translate(2982.042 361.264)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">$4b</tspan></text>
+      <text id="_3.5b" data-name="$3.5b" transform="translate(2982.042 393.549)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">$3.5b</tspan></text>
+      <text id="_3b" data-name="$3b" transform="translate(2982.042 425.835)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">$3b</tspan></text>
+      <text id="_2.5b" data-name="$2.5b" transform="translate(2982.042 458.121)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">$2.5b</tspan></text>
+      <text id="_2b" data-name="$2b" transform="translate(2982.042 490.407)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">$2b</tspan></text>
+      <text id="_1.5b" data-name="$1.5b" transform="translate(2982.042 522.692)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">$1.5b</tspan></text>
+      <text id="_1b" data-name="$1b" transform="translate(2982.042 554.978)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">$1b</tspan></text>
+      <text id="_500.000.0000" data-name="$500.000.0000" transform="translate(2982.042 587.264)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">$500.000.0000</tspan></text>
+    </g>
+    <text id="_5" data-name="5" transform="translate(428.042 621.264)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">5</tspan></text>
+    <text id="_2021" data-name="2021" transform="translate(576.019 621.264)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">2021</tspan></text>
+    <text id="mar" transform="translate(732.619 621.264)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">mar</tspan></text>
+    <text id="may" transform="translate(888.042 621.264)" fill="#444241" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">may</tspan></text>
+    <line id="Line_100" data-name="Line 100" x1="581" transform="translate(390 469)" fill="none" stroke="#9b2244" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="2"/>
+    <g id="Group_1167" data-name="Group 1167" transform="translate(-2020)">
+      <rect id="Rectangle_408" data-name="Rectangle 408" width="67" height="19" rx="7.875" transform="translate(2980.5 458.487)" fill="#9b2244"/>
+      <text id="_2.45b" data-name="$2.45b" transform="translate(2993.124 472.649)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="-0.013em"><tspan x="0" y="0">$2.45b</tspan></text>
+    </g>
+    <path id="Path_1033" data-name="Path 1033" d="M2621,469l-34,28-6-13-11,19-16-17-12,33-34-22-24,35-30-9-55,75h568V468Z" transform="translate(-2020)" fill="url(#linear-gradient)"/>
+    <path id="Path_1034" data-name="Path 1034" d="M2621,469" transform="translate(-2020)" fill="none" stroke="#9b2244" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_1035" data-name="Path 1035" d="M2621,469l-34,28-6-13-11,19-16-17-12,33-34-22-24,35-30-9-55,75" transform="translate(-2020)" fill="none" stroke="#9b2244" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
